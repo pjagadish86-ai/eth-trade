@@ -9,7 +9,5 @@ public class TradeOrderToTransactionFascade {
 	@Autowired
 	private TradeOrderToTransactionMapStructMapper mapper;
 	
-	
-	
-	
+
 }
